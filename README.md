@@ -1,4 +1,4 @@
-# Unit 1: Stable-Baselines3
+Stable-Baselines3
 
 Stable-Baselines3
 <img src="assets/img/LunarLander.gif" alt="LunarLander"/>
